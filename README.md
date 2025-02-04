@@ -1,4 +1,4 @@
-# rebasing-challenge
+# Rebasing Challenge
 
 Your task as a team is to use what we learned in the demonstrations to prepare a local branch for a pull request. The result of the pull request should be a <b><i>single commit message</i></b> summarizing the new feature implemented (we're looking for a summary of the changes here).
 
